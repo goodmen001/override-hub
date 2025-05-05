@@ -10,6 +10,15 @@ proxy-groups:
       - 日本节点
       - 美国节点
       - 韩国节点
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
       - DIRECT
   - name: 手动切换
@@ -33,7 +42,16 @@ proxy-groups:
       - 台湾节点
       - 日本节点
       - 美国节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
       - DIRECT
   - name: OpenAi
@@ -47,7 +65,16 @@ proxy-groups:
       - 台湾节点
       - 日本节点
       - 美国节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
       - DIRECT
   - name: 油管视频
@@ -61,7 +88,16 @@ proxy-groups:
       - 台湾节点
       - 日本节点
       - 美国节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
       - DIRECT
   - name: 奈飞视频
@@ -76,7 +112,16 @@ proxy-groups:
       - 台湾节点
       - 日本节点
       - 美国节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
       - DIRECT
   - name: 巴哈姆特
@@ -105,7 +150,16 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 美国节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
       - DIRECT
   - name: 国内媒体
@@ -129,7 +183,16 @@ proxy-groups:
       - 台湾节点
       - 狮城节点
       - 日本节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 微软Bing
     icon: https://testingcf.jsdelivr.net/gh/shindgewongxj/WHATSINStash@master/icon/bing.png
@@ -142,7 +205,16 @@ proxy-groups:
       - 台湾节点
       - 狮城节点
       - 日本节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 微软云盘
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/OneDrive.png
@@ -155,7 +227,16 @@ proxy-groups:
       - 台湾节点
       - 狮城节点
       - 日本节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 微软服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
@@ -168,7 +249,16 @@ proxy-groups:
       - 台湾节点
       - 狮城节点
       - 日本节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 苹果服务
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
@@ -181,7 +271,16 @@ proxy-groups:
       - 台湾节点
       - 狮城节点
       - 日本节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 游戏平台
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Game.png
@@ -194,7 +293,16 @@ proxy-groups:
       - 台湾节点
       - 狮城节点
       - 日本节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 网易音乐
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netease_Music.png
@@ -236,7 +344,16 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 美国节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 手动切换
   - name: 香港节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
@@ -280,6 +397,69 @@ proxy-groups:
     type: url-test
     interval: 300
     tolerance: 50
+  - name: 英国节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_Kingdom.png
+    include-all: true
+    filter: (?i)英|UK|United Kingdom
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 法国节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/France.png
+    include-all: true
+    filter: (?i)法|France|FR
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 德国节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Germany.png
+    include-all: true
+    filter: (?i)德|Germany|DE
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 印度节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/India.png
+    include-all: true
+    filter: (?i)印|India|IN
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 加拿大节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Canada.png
+    include-all: true
+    filter: (?i)加|Canada|CA
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 澳大利亚节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Australia.png
+    include-all: true
+    filter: (?i)澳|Australia|AU
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 马来西亚节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Malaysia.png
+    include-all: true
+    filter: (?i)马来西亚|Malaysia|MY
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 俄罗斯节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Russia.png
+    include-all: true
+    filter: (?i)俄|俄罗斯|Russia|RU
+    type: url-test
+    interval: 300
+    tolerance: 50
+  - name: 泰国节点
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Thailand.png
+    include-all: true
+    filter: (?i)泰国|Thailand|TH
+    type: url-test
+    interval: 300
+    tolerance: 50
   - name: 奈飞节点
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     include-all: true
@@ -317,7 +497,16 @@ proxy-groups:
       - 美国节点
       - 台湾节点
       - 狮城节点
-      - 韩国节点
+      - 韩国节点      
+      - 英国节点
+      - 法国节点
+      - 德国节点
+      - 印度节点
+      - 加拿大节点
+      - 澳大利亚节点
+      - 马来西亚节点
+      - 俄罗斯节点
+      - 泰国节点
       - 奈飞节点
 
 rule-providers:
@@ -531,8 +720,22 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-
+  Github:
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.list
+    path: ./ruleset/github.list
+    behavior: domain
+    interval: 86400
+    format: text
+    type: http
 rules:
+  - 'DOMAIN-SUFFIX,naswork.cn,DIRECT'
+  - 'DOMAIN-SUFFIX,ekxuexi.cn,DIRECT'
+  - 'DOMAIN-SUFFIX,xuexinas.cn,DIRECT'
+  - 'DOMAIN-SUFFIX,dpdns.org,DIRECT'
+  - 'DOMAIN-SUFFIX,blacknas.dpdns.org,DIRECT'
+  - 'DOMAIN-SUFFIX,checknas.dpdns.org,DIRECT'
+  - 'DOMAIN-SUFFIX,docker.com,香港节点'
+  - 'RULE-SET,Github,Github'
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
@@ -565,4 +768,3 @@ rules:
   - "RULE-SET,Download,全球直连"
   - "GEOIP,CN,全球直连"
   - "MATCH,漏网之鱼"
-  - "DOMAIN-SUFFIX,docker.com,香港节点"
